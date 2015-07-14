@@ -23,13 +23,13 @@ Or install it yourself as:
 Inside your `application.js` add 
 
 ```
-*= require material
+//= require material
 ```
 
 **or**, for minified version
 
 ```
-*= require material.min
+//= require material.min
 ```
 
 ### Stylesheets
